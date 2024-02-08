@@ -9,7 +9,7 @@ ADMIN = int(environ.get('ADMIN','1691590963'))
 CHAT_GROUP = int(environ.get('CHAT_GROUP','-1002020168110'))
 ADMIN_NAME = environ.get('ADMIN_NAME','pratik')
 LOG_CHANNEL = environ.get('LOG_CHANNEL','-1002050735539')
-MONGO_URL = environ.get('MONGO_URL','mongodb+srv://zalivett444:eyO6VsxQAh4JhEqU@cluster0.j4zzhw6.mongodb.net/?retryWrites=true&w=majority')
+MONGO_URL = environ.get('MONGO_URL','mongodb+srv://Pratik887612:6900745643pratik@cluster0.iuik2jt.mongodb.net/?retryWrites=true&w=majority')
 STICKERS_IDS = (
     "CAACAgQAAxkBAAEK99dlfC7LDqnuwtGRkIoacot_dGC4zQACbg8AAuHqsVDaMQeY6CcRojME"
 ).split()
