@@ -4,10 +4,10 @@ from os import environ
 API_ID = environ.get('API_ID','29712643')
 API_HASH = environ.get('API_HASH','159ec16a16e76a7f5e51d3c7e157e386')
 BOT_TOKEN = environ.get('BOT_TOKEN','6957887097:AAGBF-s01pLb7NXUOF3pWHGElQWMnRh5ti4')
-BOT_NAME = environ.get('BOT_NAME','pratik CHAT BOT')
+BOT_NAME = environ.get('BOT_NAME','@Hellowai_bot')
 ADMIN = int(environ.get('ADMIN','-1006908145919'))
 CHAT_GROUP = int(environ.get('CHAT_GROUP','-1002020168110'))
-ADMIN_NAME = environ.get('ADMIN_NAME','pratik')
+ADMIN_NAME = environ.get('ADMIN_NAME','@Moviesearchbotis')
 LOG_CHANNEL = environ.get('LOG_CHANNEL','-1002050735539')
 MONGO_URL = environ.get('MONGO_URL','mongodb+srv://Pratik887612:6900745643pratik@cluster0.iuik2jt.mongodb.net/?retryWrites=true&w=majority')
 STICKERS_IDS = (
